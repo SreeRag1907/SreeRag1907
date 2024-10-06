@@ -10,7 +10,24 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! <br>I'm a passionate Frontend Developer who loves creating interactive and visually stunning web experiences. With a strong foundation in modern frontend technologies, I enjoy turning designs into functional and user-friendly interfaces.</p>
+<p align="left">Welcome to my GitHub profile! <br>I'm a passionate <b>Frontend Developer</b> who loves creating interactive and visually stunning web experiences. With a strong foundation in modern frontend technologies like:
+<ul>
+  <li>
+    React js
+  </li>
+  
+  <li>
+    Next js
+  </li>
+  
+  <li>
+    Tailwindcss
+  </li>
+
+  <li>
+    Typescript
+  </li>
+</ul> I enjoy turning designs into functional and user-friendly interfaces.</p>
 
 ###
 
