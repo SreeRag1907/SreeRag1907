@@ -54,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px;" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 40px;" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px;" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" style="height: 40px;" alt="npm logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 40px;" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="height: 40px;" alt="slack logo" />
