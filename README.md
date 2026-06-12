@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img height="300" width="900" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
+</div>
+
 # 👋 Hi, I'm C Sreerag
 
 ### Co-Founder @ JobPylot | Full-Stack Engineer | AI Product Builder
@@ -85,3 +89,9 @@ Git • GitHub • Figma • Vercel • VS Code
 * Full-Stack Engineering
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SreeRag1907&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SreeRag1907&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreeRag1907&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
