@@ -40,26 +40,6 @@ Building AI-powered products, scalable web applications, and developer-focused s
 
 ---
 
-## 🚀 Featured Projects
-
-### JobPylot
-
-AI-powered Resume Builder and Career Growth Platform helping students create ATS-friendly resumes and improve job readiness.
-
-### SpendLens
-
-AI-powered Personal Finance Tracker using GPT-4o-mini for transaction categorization and financial insights.
-
-### LingoQuest
-
-Gamified language learning platform inspired by Duolingo with XP, leaderboards, and subscription management.
-
-### Taral Shuddhi
-
-Award-winning IoT-based Smart Fluid Monitoring System for real-time monitoring and analytics.
-
----
-
 ## 🔧 Tech Stack
 
 ### Frontend
