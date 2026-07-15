@@ -22,11 +22,11 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently building **[JobPylot](https://csreerag-portfolio.vercel.app/)** — an AI-powered Resume Builder & Career Growth Platform
+- 🔭 Currently building **[JobPylot](https://jobpylot.com/)** — an AI-powered Resume Builder & Career Growth Platform
 - 💻 Full-Stack Engineer specializing in **React.js, Next.js, TypeScript, Node.js & Supabase**
+- 🏆 1st Place — **Navonmesh 2025** State-Level Project Competition
 - 🥈 2nd Place — **Pragyantra 2026** National AI Hackathon
 - 🥇 Elite + Gold (Top 1%) — **NPTEL Edge Computing**, IIT Kanpur
-- 📄 Published Research Author — *GramSetu Agricultural Support System*
 - 🌱 Exploring **AI Applications, System Design & Scalable Architecture**
 - 🎯 Open to **Full-Stack / Frontend Engineering** opportunities
 - ⚡ Fun fact: **1800+** GitHub contributions and still climbing
@@ -38,35 +38,39 @@
 </div>
 
 ## 🏆 Achievements
-
+ 
+<div align="center">
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
-      <h2>🥇</h2>
-      <h3>NPTEL Edge Computing</h3>
-      <p><sub>IIT Kanpur</sub></p>
-      <img src="https://img.shields.io/badge/Elite%20%2B%20Gold-Top%201%25-FFD700?style=for-the-badge"/>
+    <td align="center" width="30%">
+      <div style="background: linear-gradient(135deg, #CD7F32 0%, #8B4513 100%); border-radius: 12px; padding: 20px; min-height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <h2 style="margin: 0; font-size: 32px;">🏆</h2>
+        <h3 style="margin: 10px 0 5px 0;">Navonmesh 2025</h3>
+        <p style="margin: 0; font-size: 13px; opacity: 0.95;"><sub>State-Level Project</sub></p>
+        <img src="https://img.shields.io/badge/1st%20Place-Winner-CD7F32?style=for-the-badge" style="margin-top: 10px;"/>
+      </div>
     </td>
-    <td align="center" width="25%">
-      <h2>🥈</h2>
-      <h3>Pragyantra 2026</h3>
-      <p><sub>National AI Hackathon</sub></p>
-      <img src="https://img.shields.io/badge/2nd%20Place-Hackathon-C0C0C0?style=for-the-badge"/>
+    <td align="center" width="40%" style="padding: 0 15px;">
+      <div style="background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%); border-radius: 12px; padding: 25px; min-height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <h2 style="margin: 0; font-size: 36px;">🥇</h2>
+        <h3 style="margin: 12px 0 8px 0; font-size: 18px;">NPTEL Edge Computing</h3>
+        <p style="margin: 0; font-size: 13px; opacity: 0.95;"><sub>IIT Kanpur</sub></p>
+        <img src="https://img.shields.io/badge/Elite%20%2B%20Gold-Top%201%25-FFD700?style=for-the-badge" style="margin-top: 12px;"/>
+      </div>
     </td>
-    <td align="center" width="25%">
-      <h2>🏆</h2>
-      <h3>Navonmesh 2025</h3>
-      <p><sub>State-Level Project Competition</sub></p>
-      <img src="https://img.shields.io/badge/1st%20Place-Competition-CD7F32?style=for-the-badge"/>
-    </td>
-    <td align="center" width="25%">
-      <h2>📄</h2>
-      <h3>Research Publication</h3>
-      <p><sub>GramSetu Agricultural Support System</sub></p>
-      <img src="https://img.shields.io/badge/Published-Research%20Author-6C63FF?style=for-the-badge"/>
+    <td align="center" width="30%">
+      <div style="background: linear-gradient(135deg, #C0C0C0 0%, #808080 100%); border-radius: 12px; padding: 20px; min-height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <h2 style="margin: 0; font-size: 32px;">🥈</h2>
+        <h3 style="margin: 10px 0 5px 0;">Pragyantra 2026</h3>
+        <p style="margin: 0; font-size: 13px; opacity: 0.95;"><sub>National AI Hackathon</sub></p>
+        <img src="https://img.shields.io/badge/2nd%20Place-Hackathon-C0C0C0?style=for-the-badge" style="margin-top: 10px;"/>
+      </div>
     </td>
   </tr>
 </table>
+</div>
+
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
