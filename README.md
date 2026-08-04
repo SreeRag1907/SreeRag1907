@@ -6,7 +6,7 @@
 
 <img height="300" width="900" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Co-Founder+%40+JobPylot;Building+AI-Powered+Career+Tools;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Always+shipping+something+new+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Career+Tools;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Always+shipping+something+new+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
